@@ -37,6 +37,25 @@ Es la práctica continua de asegurarnos que todo lo que creamos para la web se p
     - Varilla bucal
     - Switch
   
+  # ¿Qué es el HTML semántico y por qué es importante?
+  El HTML semántico nos ayuda con algunos aspectos de presentación y le agrega significado a nuestro contenido en el navegador.
+  
+  1. Sin HTML Semántico
+
+   ```HTML
+   <div></div>
+    <div></div><div></div>
+   <div></div>  
+   ```
+   2. Con HTML semántico
+   
+   ```HTML
+   <header></header>
+    <article><img /></article>
+   <footer></footer>  
+   ```
+   
+   
  
  
  
